@@ -1,4 +1,3 @@
-package prac1;
 
 public class Practice {
 
@@ -6,5 +5,6 @@ public class Practice {
         System.out.println(1111);
         System.out.println(1111);
         System.out.println(1111);
+   	System.out.println(1111);
     }
 }
